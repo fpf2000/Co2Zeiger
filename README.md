@@ -1,2 +1,2 @@
 # Co2Zeiger
-Co2Zeidger mit LED 
+Co2Zeiger mit LED 
