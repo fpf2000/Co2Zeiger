@@ -1,6 +1,0 @@
-Das ganze mit Wifi und Mqtt 
-bitte die setting.h anpassen
-nach dem einschalten sollte der esp inm Wlan zu sehen sein
-nach auswahl des Netzwerkes kann man über 192.168.4.1 das WiFi einrichten
-Erfolgt keine Wifi einstellung startet er das CO2 anzeigen 
-nach einiger Zeit erfogt ein reboot und mann kann von vorne beginnen
